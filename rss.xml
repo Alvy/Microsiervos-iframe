@@ -4,13 +4,14 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Feb 2021 17:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2021 17:42:48 GMT</lastBuildDate>
         <item>
             <title><![CDATA[Prueba de vídeo]]></title>
             <description><![CDATA[<p>El vídeo de tal y tal</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ytpynd4-WpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Bla bla</p>
+<p>Bla bla
+go</p>
 ]]></description>
             <link>post/prueba-de-vídeo</link>
             <guid isPermaLink="true">post/prueba-de-vídeo</guid>
