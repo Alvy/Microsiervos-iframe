@@ -1,0 +1,13 @@
+---
+permalink: prueba-de-vídeo
+title: Prueba de vídeo
+description: El vídeo de tal y talBla bla
+image: null
+updated: 1612806004794
+draft: false
+---
+El vídeo de tal y tal
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ytpynd4-WpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Bla bla

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 08 Feb 2021 17:41:47 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[Prueba de vídeo]]></title>
+            <description><![CDATA[<p>El vídeo de tal y tal</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ytpynd4-WpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Bla bla</p>
+]]></description>
+            <link>post/prueba-de-vídeo</link>
+            <guid isPermaLink="true">post/prueba-de-vídeo</guid>
+            <pubDate>Mon, 08 Feb 2021 17:40:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
